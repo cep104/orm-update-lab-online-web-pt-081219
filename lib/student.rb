@@ -25,3 +25,4 @@ def self.drop_table
       SQL
 DB[:conn].execute(sql)
 end
+end
